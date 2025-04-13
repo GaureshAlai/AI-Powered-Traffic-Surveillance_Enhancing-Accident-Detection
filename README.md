@@ -22,9 +22,8 @@ A deep learning-powered system that detects accidents in images and videos using
 
 ### Accident Detection in Action
 
-![Accident Detection Demo](https://user-images.githubusercontent.com/your-username/accident-detection-demo.gif)
+![Output Video Of Accident Detection Model](https://github.com/user-attachments/assets/85723000-3bfe-445b-a5dd-233e9a6a8bd1)
 
-> 👆 Replace the link above with your own hosted GIF (e.g., from GitHub or Imgur).
 
 ---
 
