@@ -1,9 +1,5 @@
 # AI-Powered-Traffic-Surveillance_Enhancing-Accident-Detection
-Sure! Here's the **complete `README.md`** file in **Markdown format**, including all the sections and a placeholder for your **demo GIF**.
 
----
-
-```markdown
 # 🚨 Accident Detection Model
 
 A deep learning-powered system that detects accidents in images and videos using a pre-trained **EfficientNet-B3** model and a custom classifier. This project supports real-time and offline video processing and includes a **Flask web application** for easy video upload and results visualization.
@@ -214,8 +210,4 @@ This project is licensed under the [MIT License](LICENSE).
 > Feel free to fork and contribute 🤝 | Made with ❤️ for safety and innovation.
 ```
 
----
 
-Replace the **demo GIF link** (`https://user-images.githubusercontent.com/your-username/accident-detection-demo.gif`) with your actual GIF once you host it (e.g., upload to GitHub or Imgur).
-
-Let me know if you'd like help creating or hosting the demo GIF!
