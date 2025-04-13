@@ -46,14 +46,6 @@ accident-detection/
 ├── app.py                        # Flask web app
 ├── accident_detection_model.py   # Model training/testing script
 ├── templates/                    # HTML templates for Flask app
-├── static/
-│   ├── uploads/                  # Uploaded videos
-│   └── results/                  # Processed result videos
-├── model/
-│   └── best_accident_detection_model.pth
-├── utils/
-│   ├── video_utils.py
-│   └── preprocessing.py
 ├── training_history.png
 ├── confusion_matrix.png
 └── README.md
