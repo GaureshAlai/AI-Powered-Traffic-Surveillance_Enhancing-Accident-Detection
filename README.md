@@ -37,10 +37,29 @@ A deep learning-powered system that detects accidents in images and videos using
   - Output Layer (2 classes: `accident`, `non-accident`)
 
 ---
+
 ## 📁 Project Structure
 
-accident-detection/ ├── app.py # Flask app ├── accident_detection_model.py # Model training and inference script ├── templates/ # Flask HTML templates ├── static/ │ ├── uploads/ # Uploaded videos │ └── results/ # Processed result videos ├── model/ │ └── best_accident_detection_model.pth ├── training_history.png # Training loss & accuracy graph ├── confusion_matrix.png # Evaluation matrix ├── requirements.txt
+```
+accident-detection/
+│
+├── app.py                        # Flask web app
+├── accident_detection_model.py   # Model training/testing script
+├── templates/                    # HTML templates for Flask app
+├── static/
+│   ├── uploads/                  # Uploaded videos
+│   └── results/                  # Processed result videos
+├── model/
+│   └── best_accident_detection_model.pth
+├── utils/
+│   ├── video_utils.py
+│   └── preprocessing.py
+├── training_history.png
+├── confusion_matrix.png
+└── README.md
+```
 
+---
 ## 📁 Dataset Structure
 
 ```
